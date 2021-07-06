@@ -1,7 +1,6 @@
 # 2Героя
 🐿️💻🎮 2Героя - Очень интересная адвенчура о лесном пожаре, который произошел из-за людей. Вы играете за храбрую белку, ваша задача - это помочь всем пострадавшим животным. Удачи!
 
-# Проект: https://yadi.sk/d/dbQP_bbjbigwhg
 # Игра: https://yadi.sk/d/MKUW3mfgxh50AA
 
 ![martynovr](https://raw.githubusercontent.com/martynovr/YFHack-pskovhack--ARU/master/Desktop%20Screenshot%202020.05.10%20-%2021.46.09.83.png) ![martynovr](https://raw.githubusercontent.com/martynovr/YFHack-pskovhack--ARU/master/Desktop%20Screenshot%202020.05.10%20-%2021.47.56.99.png)
